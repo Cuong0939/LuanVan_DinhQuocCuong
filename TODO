@@ -1,0 +1,35 @@
+PLAN 
+A. CODE (Estimated to be completed before OCT)
+  STAGE 1 - Try with a single line text
+    1. Create the datasets
+    2. Preprocessing datasets 
+    3. Prepare enviroment
+    4. Make model
+    5. Train mode
+    6. Evalute model
+    7. Make predict with test datasets
+    8. Make predict with realtime examples
+
+
+  STAGE 2 - Recognite the text fields on the feedback (Estimated to be completed before end of OCT)
+    1. Recognite text fields on the feedback
+    2. Extract the image of these text fields
+    3. Preprocessing the images
+    4. Test with the model which is made on stage 1
+    5. Improve model (necessary)
+
+  STAGE 3 - Make an app/web by python to visualize the result with orders (Estimated to be completed before Nov)
+    1. Input is the feedback's image
+    2. load model and preprocessing the input image
+    3. Output are informations of feedback (include whole text on feedback) and visualize by JSON format
+    
+B. THESIS REPORT (Estimated to be completed before DEC)
+  1. Read docs and try setting Vietnamese handwriting recognition model (End of Aug)
+  2. Write the Summary and history of problem solving (End of Sep)
+  3. Collection and write the docs of Theoretical basis (End of Sep)
+  4. Complete the thesis report (demo) (End of Oct)
+  5. Complete the thesis report (final) (End of Oct)
+  6. Prepare for report with Dissertation review committee (Middle of Nov)
+  7. Improve the Thesis report (nescessary)
+
+
